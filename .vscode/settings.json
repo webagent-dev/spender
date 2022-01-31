@@ -1,0 +1,28 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.excludeLanguages": [
+        "markdown",
+        "javascript",
+        "javascriptreact",
+        "css",
+        "html",
+        "nodejs",
+        "nextjs"
+    ],
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "git.allowForcePush": true,
+    "bracket-pair-colorizer-2.forceIterationColorCycle": true,
+    "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
+    "bracket-pair-colorizer-2.highlightActiveScope": true,
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "bracket-pair-colorizer-2.showBracketsInRuler": true,
+    "prettier.enableDebugLogs": true,
+    "prettier.endOfLine": "auto",
+    "prettier.htmlWhitespaceSensitivity": "strict",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.insertPragma": true
+}

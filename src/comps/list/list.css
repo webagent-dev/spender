@@ -1,0 +1,27 @@
+.list__container{
+    width: 100%;
+    padding: 1rem;
+    background: black;
+    padding: .5rem;
+    height: 30px;
+    margin-top: 10px;
+    color: red;margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: px;
+}
+.list__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.main__list__content{
+    display: flex;
+    align-items: center;
+}
+.list__content{
+    display: flex;
+    flex-direction: column;
+}

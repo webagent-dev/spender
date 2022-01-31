@@ -1,0 +1,17 @@
+.recorder__container{
+    width: 350px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.recorder__wrapper{
+    background: blue;
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.recorder__wrapper:active{
+    box-shadow: inset -6px -6px 12px lightblue, inset 6px 6px 12px lightgray;
+}
